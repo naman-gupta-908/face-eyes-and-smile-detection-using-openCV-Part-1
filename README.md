@@ -4,6 +4,12 @@ Requirements:
 
 openCV module
 
+haarcascade_frontalface_default.xml
+
+haarcascade_eye_tree_eyeglasses.xml
+
+haarcascade_smile.xml
+
 Command:
 
 pip install opencv-python
